@@ -1,0 +1,3 @@
+C:/Users/canka/CLionProjects/se226lab1cc/cmake-build-debug/CMakeFiles/se226lab1cc.dir
+C:/Users/canka/CLionProjects/se226lab1cc/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/canka/CLionProjects/se226lab1cc/cmake-build-debug/CMakeFiles/rebuild_cache.dir
